@@ -13,6 +13,12 @@ h1 {
     color: #222;
 }
 
+.logo {
+    font-family: 'caveat';
+    font-size: 50px;
+    color: #1c1a4d;
+}
+
 h2 {
     font-size: 46px;
     line-height: 54px;
