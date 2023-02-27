@@ -1,5 +1,5 @@
  <p align="center">
-  ![logo](https://user-images.githubusercontent.com/104739434/221689652-080ab7e5-1443-4f1c-900c-e38798b41edc.png)
+ (https://user-images.githubusercontent.com/104739434/221689652-080ab7e5-1443-4f1c-900c-e38798b41edc.png)
 
 </p>
 <h1 align="center"> The Little Sheep </h1>
